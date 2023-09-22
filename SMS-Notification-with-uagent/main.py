@@ -26,7 +26,7 @@ for i in range(num_targets):
     max_value = float(input(f"Enter the desired maximum value for {target_currency}: "))
     target_currencies[target_currency] = {"min": min_value, "max": max_value}
 
-API_URL = f"https://v6.exchangerate-api.com/v6/89edc5aa301f995e835ea125/latest/{base_currency}"
+API_URL = f"https://v6.exchangerate-api.com/v6/{YOU_API_KEY_HERE}/latest/{base_currency}"
 
 def get_exchange_rates(base_currency):
     try:
@@ -61,10 +61,10 @@ def monitor_exchange_rates():
 async def notify_user(alert):
 
     for message in alert:
-        servicePlanId = "b9c54b36191b42f393a94d1aed05e13c"
-        apiToken = "b0cbe7bdac8c4a368aa030d10d74eb6f"
-        sinchNumber = "+447520651166"
-        toNumber = "+917405629480"
+        servicePlanId = "YOUR_SERVICE_PLAN_ID_HERE"
+        apiToken = "YOUR_API_TOKRN_HERE"
+        sinchNumber = "YOUR_SINCH_NUMBER_HERE"
+        toNumber = "USERS_NUMBER_HERE"
         url = "https://us.sms.api.sinch.com/xms/v1/" + servicePlanId + "/batches"
 
         payload = {
