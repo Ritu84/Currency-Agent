@@ -1,5 +1,6 @@
-# uAgent Projects - SMS Notifications and Two-Agent Communication 🚀🤖
-This repository showcases two distinct projects that utilize the uAgents framework to demonstrate different functionalities. Each project serves a specific purpose, highlighting the versatility of uAgents for various applications.
+# uAgent Projects - Currency Agent 🚀🤖
+
+The basic idea of this currency agent is that, the user will enter a base currency, and the other currencies which he/she need to monitor. He/She will enter his/her minimum and maximum desired values of the currencies they need to observe with respect to the base currency, If at any time, the value of any of the observed currency either falls below the desired minimum value, or rises above the desired maximum value, the user gets notified, here i have implemented 2 approaches that stuck in my mind, in the first one, the user gets notified via an sms, and in the other one, the another uagents gets notified in an established remote connection server.
 
 ### Project 1: Currency Monitoring Agent, Notification via SMS🌐💱
 The Currency Monitoring Agent continuously tracks currency exchange rates and sends text messages based on user-defined thresholds. This project demonstrates how to monitor currency rates and notify users when rates fall below or rise above specified limits.
