@@ -26,7 +26,7 @@ for i in range(num_targets):
     max_value = float(input(f"Enter the desired maximum value for {target_currency}: "))
     target_currencies[target_currency] = {"min": min_value, "max": max_value}
 
-API_URL = f"https://v6.exchangerate-api.com/v6/89edc5aa301f995e835ea125/latest/{base_currency}"
+API_URL = f"https://v6.exchangerate-api.com/v6/{YOUR_API_TOKEN_HERE}/latest/{base_currency}"
 
 def get_exchange_rates(base_currency):
     try:
