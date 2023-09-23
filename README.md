@@ -29,7 +29,7 @@ Happy coding and keep experimenting with uAgents! 🚀🤖
 Video Explanation 🎥
 For a more detailed overview and step-by-step walkthrough of both projects included in this repository, watch our video explanation below:
 
-- YouTube Link: https://demo-link//.org
-- Google Drive Link: https://demo-link//.org
+- YouTube Link: 
+
 
 Feel free to explore and experiment with these uAgent projects to enhance your understanding of agent-based systems and their applications.
