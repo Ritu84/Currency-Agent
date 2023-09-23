@@ -1,6 +1,6 @@
-# Currency Monitoring Agent - Remote communication between two uAgents  🌡️📲
+# Currency Monitoring Agent - Remote communication between two uAgents 💱💵
 
-This repository contains a Currency Monitoring Agent that checks the currency in a selected location and sends a text message notification to the user if the currency falls below or rises above the user's desired currency range. This project was developed for the [Fetch.ai Hackathon](https://lu.ma/fetchai-hackathon) organized by [Fetch.ai](https://fetch.ai/).
+This repository contains a Currency Monitoring Agent that checks the base currency wrt the observable currencies and sends a text message notification to the user if the currency falls below or rises above the user's desired currency range. This project was developed for the [Fetch.ai Hackathon](https://lu.ma/fetchai-hackathon) organized by [Fetch.ai](https://fetch.ai/).
 
 ## Getting Started 🚀
 
