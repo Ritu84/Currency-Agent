@@ -17,14 +17,14 @@ The Currency Monitoring Agent, affectionately known as "currency_agent," monitor
 
 #### Features:
 
-- **Temperature monitoring in a user-specified location.**
+- **Currency monitoring in a user-specified base currency.**
 - **Remote communication between agents.**
-- **Configurable temperature thresholds.**
-- **For detailed instructions and usage, please refer to the Temperature Monitoring Agent (Bob) README.**
+- **Configurable currency thresholds.**
+- **For detailed instructions and usage, please refer to the Currency Monitoring Agent README.**
   
 Explore these projects to see how uAgents can be applied to various use cases. Whether you're interested in currency monitoring and notifications or agent-to-agent communication, these projects offer valuable insights into leveraging uAgents for your applications.
 
-Happy coding and experimenting with uAgents! 🚀🤖
+Happy coding and keep experimenting with uAgents! 🚀🤖
 
 Video Explanation 🎥
 For a more detailed overview and step-by-step walkthrough of both projects included in this repository, watch our video explanation below:
