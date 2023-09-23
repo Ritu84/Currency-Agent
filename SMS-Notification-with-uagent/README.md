@@ -60,10 +60,4 @@ Now you can stay informed about currency changes in your selected currencies!
 
 Enjoy monitoring currencies with SMS notifications! 💵💱
 
-## Video Explanation 🎥
 
-For a more detailed overview and step-by-step walkthrough of the projects included in this repository, watch our video explanation below:
-
-Youtube Link: https://demo-link.org
-
-Gdrive Link: https://demo-link.org
