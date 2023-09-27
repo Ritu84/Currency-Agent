@@ -22,7 +22,7 @@ The Currency Monitoring Agent, affectionately known as "currency_agent," monitor
 - **Configurable currency thresholds.**
 - **For detailed instructions and usage, please refer to the Currency Monitoring Agent README.**
   
-Explore these projects to see how uAgents can be applied to various use cases. Whether you're interested in currency monitoring and notifications or agent-to-agent communication, these projects offer valuable insights into leveraging uAgents for your applications.
+Explore these projects to see how uAgents can be applied to various use cases. Whether you're interested in currency monitoring and notifications or agent-to-agent communication, these projects offer valuable insights into leveraging uAgents for your application.
 
 Happy coding and keep experimenting with uAgents! 🚀🤖
 
